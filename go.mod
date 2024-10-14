@@ -4,7 +4,7 @@ go 1.22.5
 
 require (
 	github.com/gin-gonic/gin v1.10.0
-	github.com/zitadel/zitadel-go/v3 v3.1.2
+	github.com/zitadel/zitadel-go/v3 v3.2.0
 )
 
 require (
