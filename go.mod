@@ -4,7 +4,7 @@ go 1.23.7
 
 require (
 	github.com/gin-gonic/gin v1.10.1
-	github.com/zitadel/zitadel-go/v3 v3.5.1
+	github.com/zitadel/zitadel-go/v3 v3.6.1
 )
 
 require (
@@ -44,7 +44,7 @@ require (
 	golang.org/x/crypto v0.36.0 // indirect
 	golang.org/x/exp v0.0.0-20240719175910-8a7402abbf56 // indirect
 	golang.org/x/net v0.38.0 // indirect
-	golang.org/x/oauth2 v0.29.0 // indirect
+	golang.org/x/oauth2 v0.30.0 // indirect
 	golang.org/x/sys v0.31.0 // indirect
 	golang.org/x/text v0.24.0 // indirect
 	google.golang.org/protobuf v1.36.6 // indirect
