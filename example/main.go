@@ -44,6 +44,7 @@ func main() {
 		})
 	})
 	if err = r.Run(); err != nil {
-		slog.Error("")
+		slog.Error("gin server stopped", "error", err)
+		os.Exit(1)
 	}
 }
